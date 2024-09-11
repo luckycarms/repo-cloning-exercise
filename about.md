@@ -9,4 +9,4 @@ I am an introvert, but I do like to hang out with family and close friends.
 
 ![Dr. Pepper](file.png)
 
-[Github](https://github.com/luckycarms)
+[Github](github.com/luckycarms)
