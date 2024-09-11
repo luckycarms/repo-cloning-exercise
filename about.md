@@ -7,6 +7,6 @@ I am an introvert, but I do like to hang out with family and close friends.
 * Traveling
 * Listening to Music
 
-![Dr. Pepper](pepper.png)
+![Dr. Pepper](file.png)
 
 [Github](https://github.com/luckycarms)
